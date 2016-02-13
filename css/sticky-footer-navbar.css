@@ -26,5 +26,7 @@ body > .container {
 }
 
 .jumbotron {
-    background-image: url('../img/jumbo.jpg');
+    color: white;
+    background-image: url('http://genesisbcs.com/wp-content/upLoads/2015/01/background_square_greenblue.jpg');
+    background-size: 100%;
 }
