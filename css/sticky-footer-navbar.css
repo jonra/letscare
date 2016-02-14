@@ -26,7 +26,24 @@ body > .container {
 }
 
 .jumbotron {
-    color: white;
-    background-image: url('http://genesisbcs.com/wp-content/upLoads/2015/01/background_square_greenblue.jpg');
+    background-image: url('https://wallpaperspal.com/wp-content/uploads/Orange-Smoke-Abstract-Background.jpg');
     background-size: 100%;
 }
+
+.boxx {
+    padding: 20px;
+    margin: 10px;
+    color: darkslategrey;
+    border-width: 0px;
+    border-style: solid;
+    text-align: center;
+    color: white;
+    background-color: firebrick;
+}
+
+.boxx p  {
+    font-weight: 600;
+}
+
+
+
