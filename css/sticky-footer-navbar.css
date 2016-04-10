@@ -23,8 +23,9 @@ body {
     width: 100%;
     /* Set the fixed height of the footer here */
     
-    height: 60px;
-    background-color: #1f243d;
+    padding: 10px;
+    background-color: #4C5B5C;
+    color: #efefef;
 }
 
 .jumbo {
@@ -54,6 +55,10 @@ body {
     background-size: cover;
     overflow: hidden;
 
+}
+
+.center {
+    text-align: center;
 }
 
 
@@ -121,6 +126,10 @@ body {
 
     color: white;
     padding: 10px;
+}
+
+.collapsed {
+    background-color: black;
 }
 
 /*Navigation */
